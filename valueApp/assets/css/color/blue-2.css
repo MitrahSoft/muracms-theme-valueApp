@@ -1,0 +1,102 @@
+/*============================================
+
+	'Hex': '#151e3d',  'colorName': 'blue-2'
+
+============================================*/
+
+/*Addition styles*/
+
+#navbarprimary {
+	background-color: #151e3d !important;
+}
+
+#services {
+	background-color: #151e3d !important;
+}
+
+.desgned-by {
+	background-color: #151e3d !important;
+}
+
+.testimonial .description {
+	background-color: #151e3d !important;
+}
+
+.testimonial .description::before, .testimonial .description::after {
+    border-color: #151e3d transparent transparent!important;
+}
+
+.owl-theme .owl-controls .owl-buttons div {
+    background: #151e3d none repeat scroll 0 0!important;
+}
+
+.carousel-indicators .active {
+    background-color:#151e3d!important;
+}
+
+.text-success, .text-green, .post, .picker_close {
+	color:#151e3d!important;
+}
+
+.testimonial .pic img {
+    border: 1px solid #151e3d!important;
+}
+
+.picker_close:hover{
+	color:#151e3d!important;
+}
+
+a:hover, a:focus {
+	color: #151e3d!important;
+}
+
+#footer .fa:hover{
+	color:#151e3d !important;
+}
+
+.btn-outline-success, .btn-outline-secondary {
+	color:#151e3d !important;
+	border: 1px solid #151e3d!important;
+}
+
+.btn-outline-success:hover, .btn-outline-secondary:hover {
+	color:#fff !important;
+	border: 1px solid #151e3d!important;
+}
+
+.btn-danger {
+    background-color: #fff!important;
+    border-color: #fff!important;
+    color: #151e3d!important;
+}
+
+.btn-danger:hover {
+    background-color: #151e3d!important;
+    border-color: #fff!important;
+    color: #fff!important;
+}
+
+.btn-success {
+	background-color: #151e3d!important;
+	border-color: #151e3d!important;
+	color: #fff!important;
+}
+
+.priceitem .wrapper {
+	background-color:#151e3d !important;
+}
+.feature_descritpion p {
+	color:#151e3d !important;
+}
+
+.portfolio .portfolio-item .portfolio-item-caption {
+  	background-color: #151e3d !important;
+}
+
+.priceitem .Priceplan {
+	background-color: #232C4B !important;
+}
+
+.navbarprimary .navbar-toggler, .navbarprimary .navbar-toggler:hover, .navbarprimary .navbar-toggler:focus {
+  	background-color: #151e3d;
+}
